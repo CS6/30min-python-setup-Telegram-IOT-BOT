@@ -56,7 +56,7 @@ print (data)
 print ("Good bye!")
 
 #token 輸入 bot father 給你的 bot 專屬 token key
-updater = Updater(token='344519590:AAH1Gzn260TvJRHclFPBGW8S1mmBPNJW8Gw');  
+updater = Updater(token='輸入你的');  
 dispatcher = updater.dispatcher
 
 #start 方法
