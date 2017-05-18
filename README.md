@@ -3,7 +3,7 @@
 
 
 ## 30min python setup Telegram IOT BOT
-# 1.收先你要有Telegram帳號
+# 1.首先你要有Telegram帳號
 # 2.你要有一片開發版(筆者使用Arduino UNO)並且自行傳寫內容(或參考30分鐘之不負責任Arduino溫度監控)
 # 3.一台電腦作為SERVER&資料接收(可使用HEROKU或是AWS，筆者使用RPI2)
 # 4.安裝python3以上環境([sudo apt-get install python3.5])
