@@ -1,8 +1,9 @@
+#!/usr/bin/env python3
+#-*- coding: utf-8 -*-
+
 ##加入溫度監控
 #可直接使用的BOT
 #V1
-#!/usr/bin/env python3
-#-*- coding: utf-8 -*-
 
 
 
